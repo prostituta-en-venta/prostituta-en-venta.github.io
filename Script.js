@@ -2,11 +2,15 @@ var img = document.querySelector(".img");
 
 setTimeout(newImg, 2000);
 function newImg() {
-  img.setAttribute("src", "https://pbs.twimg.com/ext_tw_video_thumb/928979450972160001/pu/img/9NK1CpNmErpc4VrE.jpg");
+  img.setAttribute("src", "https://prostituta-en-venta.github.io/img/min-image2.jpg");
   setTimeout(newImg2, 2000);
 }
 function newImg2() {
-  img.setAttribute("src", "https://p-a-c-k-s.com/wp-content/uploads/2021/04/p-a-c-k-s.com_1.jpeg");
+  img.setAttribute("src", "https://prostituta-en-venta.github.io/img/min-image3.jpg");
+  setTimeout(newImg3, 2000);
+}
+function newImg3() {
+  img.setAttribute("src", "https://prostituta-en-venta.github.io/img/min-image1.jpg");
   setTimeout(newImg, 2000);
 }
 
@@ -15,7 +19,7 @@ function newImg2() {
 
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
-const telefono = '992767717';
+const telefono = '+591 78094364';
 const m = "Si?";
 
 function enviarMensaje() {
