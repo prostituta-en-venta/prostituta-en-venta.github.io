@@ -27,11 +27,11 @@ body {
 }
 .img {
   width: 60vw;
-  height: 100vw;
+  height: 80vw;
   min-width: 60vw;
-  min-height: 100vw;
+  min-height: 80vw;
   max-width: 500px;
-  max-height: 1000px;
+  max-height: 700px;
   margin: 5vw 0 5vw 0;
   border: 2px solid red;
   border-radius: 20px;
