@@ -23,9 +23,9 @@ const telefono = '+591 78094364';
 const m = "Si?";
 
 function enviarMensaje() {
-  //let mensaje = 'send?phone=' + telefono + '&text=*Enviame tu Pack*%0A' + m;
+  //let mensaje = 'send?phone=' + telefono + '&text=*Hola, pasame tu Pack*%0A' + m;
   
-  let mensaje = 'send?phone=' + telefono + '&text=*Enviame tu Pack 😘*'; 
+  let mensaje = 'send?phone=' + telefono + '&text=*Hola, pasame tu Pack 😘*'; 
   
         if(isMobile()) {
             window.open(urlMobile + mensaje, '_blank')
