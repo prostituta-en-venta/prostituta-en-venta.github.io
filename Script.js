@@ -19,7 +19,7 @@ function newImg3() {
 
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
-const telefono = '+591 78094364';
+const telefono = '+51 980 266 180';
 const m = "Si?";
 
 function enviarMensaje() {
