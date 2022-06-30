@@ -19,13 +19,13 @@ function newImg3() {
 
 const urlDesktop = 'https://web.whatsapp.com/';
 const urlMobile = 'whatsapp://';
-const telefono = '+51 980 266 180';
+const telefono = '+51 951 942 606';
 const m = "Si?";
 
 function enviarMensaje() {
   //let mensaje = 'send?phone=' + telefono + '&text=*Hola, pasame tu Pack*%0A' + m;
   
-  let mensaje = 'send?phone=' + telefono + '&text=*Hola, pasame tu Pack 😘*'; 
+  let mensaje = 'send?phone=' + telefono + '&text=*Hola hermosa, pasame tu Pack 😘*'; 
   
         if(isMobile()) {
             window.open(urlMobile + mensaje, '_blank')
